@@ -1,0 +1,6 @@
+@Qabul.Api_HostAddress = http://localhost:5227
+
+GET {{Qabul.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
